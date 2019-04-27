@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="meow">計算</string>
+    <string name="Name">請輸入名字</string>
+    <string name="Height">請輸入身高</string>
+    <string name="Weight">請輸入體重</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="meow">Meow</string>
+    <string name="Name">name</string>
+    <string name="Height">height(cm)</string>
+    <string name="Weight">weight(wg)</string>
+</resources>
